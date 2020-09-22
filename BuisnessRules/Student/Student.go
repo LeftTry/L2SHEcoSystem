@@ -1,11 +1,11 @@
 package Student
 
 type Student struct {
-	firstName  string
-	lastName string
-	id uint
-	email string
-	class uint
-	username string
-	password string
+	FirstName string
+	LastName  string
+	Id        uint
+	Email     string
+	Class     string
+	Username  string
+	Password  string
 }
